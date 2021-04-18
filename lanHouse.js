@@ -4,11 +4,9 @@ function valorPagar (){
 var txtValor = document.getElementById ('txtValor');
 var txtTempo = document.getElementById ('txtTempo');
 var txtvalorPagar = document.getElementById ('txtvalorPagar')
-// var txtconversao = document.getElementById ('txtconversao');
 var outValor = document.getElementById ('outValor');
 var outTempo = document.getElementById ('outTempo');
 var outvalorPagar = document.getElementById ('outvalorPagar')
-// var outconversao = document.getElementById ('outconversao');
 
 //Capturar Valores
 var valor = txtValor.value;
